@@ -29,11 +29,7 @@
   ![Linux](https://img.shields.io/badge/Linux-212125?style=for-the-badge&logo=linux&logoColor=f39100)
   ![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-009738?style=for-the-badge&logo=nginx&logoColor=white)
-  ![Apache](https://img.shields.io/badge/Apache-862676?style=for-the-badge&logo=apache)
   ![GitHub-Actions](https://img.shields.io/badge/Github%20Actions-ffffff?style=for-the-badge&logo=githubactions)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=f4342f)
-
   </div>
   <div>
 
@@ -48,14 +44,12 @@
 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/Postgresql-30658c?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 </div>
 <div>
 
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -64,7 +58,6 @@
 <div>
 
   ![AWS](https://img.shields.io/badge/AWS-232e3f?style=for-the-badge&logo=amazonaws&logoColor=fe9901)
-  ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
